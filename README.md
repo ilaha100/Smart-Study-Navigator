@@ -1,5 +1,5 @@
+## Özet
 # Smart Study Navigator
-
 ### Layihə haqqında
 Smart Study Navigator, tələbələrin akademik materiallarını daha səmərəli mənimsəmələrinə kömək edən süni intellekt əsaslı bələdçidir. Bu sistem, mürəkkəb kurs materiallarını analiz edərək onları idarə oluna bilən gündəlik öyrənmə planlarına çevirir.
 
